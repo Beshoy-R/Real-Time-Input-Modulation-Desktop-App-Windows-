@@ -1,0 +1,39 @@
+{
+  "profiles": [
+    {
+      "name": "A",
+      "group": "A",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": "icons/A (1).png"
+    },
+    {
+      "name": "B",
+      "group": "A",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": "icons/A (2).png"
+    },
+    {
+      "name": "C",
+      "group": "A",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": "icons/A (3).png"
+    },
+    {
+      "name": "D",
+      "group": "B",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": "icons/profile.png"
+    },
+    {
+      "name": "E",
+      "group": "B",
+      "x": 0.0,
+      "y": 0.0,
+      "icon": "icons/profile.png"
+    }
+  ]
+}
