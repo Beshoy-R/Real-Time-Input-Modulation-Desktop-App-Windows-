@@ -1,8 +1,8 @@
 # Input Control Assistant
+![Screenshot](assets/Screenshot-1.png)
 
 A general-purpose system tool for optimizing input control and workflow efficiency. This application allows you to create and manage customizable input modulation profiles with support for multiple profile groups.
 
-![Screenshot](assets/Screenshot-1.png)
 
 ## Features
 
