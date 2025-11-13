@@ -65,7 +65,7 @@ Profiles are stored in `data/profiles.json`:
       "group": "A",
       "x": 0.0,
       "y": 0.0,
-      "icon": "icons/profile.svg"
+      "icon": "icons/profile.png"
     }
   ]
 }
@@ -105,7 +105,7 @@ The modulation system applies compensating movements with:
 │   ├── profiles.json      # Profile definitions
 │   └── settings.db        # SQLite database (auto-created)
 ├── icons/
-│   └── profile.svg        # Default profile icon
+│   └── profile.png        # Default profile icon
 ├── logo.ico               # Application icon
 └── README.md              # This file
 ```
@@ -146,7 +146,7 @@ Edit `data/profiles.json` and add new profile objects to the `profiles` array:
   "group": "A",
   "x": 5.0,
   "y": 10.0,
-  "icon": "icons/profile.svg"
+  "icon": "icons/profile.png"
 }
 ```
 
@@ -160,12 +160,7 @@ pyinstaller --onefile --windowed --icon=logo.ico main.py
 
 ## License
 
-Developed by Besho Riad
+MIT License, Developed by Beshoy Riad.
 
-## Quote
-
-*"Optimize your input, enhance your workflow."*
-
----
 
 **Note**: This tool requires appropriate permissions and should be used in accordance with applicable terms of service for any applications or systems where it's deployed.
